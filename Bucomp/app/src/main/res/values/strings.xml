@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Bucomp</string>
-    <string name="environment">http://10.0.3.2:8080/index.html</string>
+    <string name="environment">http://54.211.68.153:8080/index.html</string>
 </resources>
